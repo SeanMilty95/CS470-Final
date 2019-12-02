@@ -1,0 +1,19 @@
+[
+      "subject",
+      "catalog",
+      "section",
+      "course_title",
+      "component",
+      "term",
+      "class_number",
+      "meeting_pattern",
+      "start_time",
+      "end_time",
+      "facility_name",
+      "facility_cap",
+      "req_room_capacity",
+      "enrol_capacity",
+      "total_enrolled",
+      "units",
+      "ge_designation"
+]

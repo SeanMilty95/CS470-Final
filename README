@@ -1,0 +1,19 @@
+Authors: Sean Miltenberger, Spencer Grecko, Michael Schmidt
+Date: 11/17/2019
+
+
+How to Use: On the command line run the executable index.js. It takes 3 arguments, first is the
+option you want to run. These options currently are D and E.
+
+D -Runs the program in default mode. (leaving this argument blank will run the program as if a D was entered.)
+Two excel files will be compared and a list of differences will be generated.
+E -Runs similar to the default option however the program will ignore differences in the keys designated
+as non-editable.
+
+The last two arguments are the excel files you wish to compare. If the files you wish to compare are withing the
+programs working directory you just need to enter the name of the files. If not you must enter the entire filepath.
+
+Example input:
+index.js E Reflist_Sp2019.xlsx Reflist_Fall2019.xlsx
+
+W -Week view and only needs one json file to work correctly. Needs to be a flattened json file.
